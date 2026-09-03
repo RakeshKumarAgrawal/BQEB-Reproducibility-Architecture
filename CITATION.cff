@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "BQEB: A Reproducibility-First Architecture for Modular Energy AI Benchmarking"
+authors:
+  - family-names: Agrawal
+    given-names: Rakesh Kumar
