@@ -1,0 +1,23 @@
+# Preserve Unix line endings for reproducibility
+* text=auto eol=lf
+
+# Python
+*.py text eol=lf
+
+# Markdown/documentation
+*.md text eol=lf
+
+# YAML workflows
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# JSON metadata
+*.json text eol=lf
+
+# Do not modify binary files
+*.pdf binary
+*.docx binary
+*.xlsx binary
+*.zip binary
+*.png binary
+*.jpg binary
