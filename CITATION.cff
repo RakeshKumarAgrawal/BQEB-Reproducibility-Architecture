@@ -4,3 +4,7 @@ title: "BQEB: A Reproducibility-First Architecture for Modular Energy AI Benchma
 authors:
   - family-names: Agrawal
     given-names: Rakesh Kumar
+doi: "10.5281/zenodo.22291930"
+version: "1.0.1"
+repository-code: "https://github.com/RakeshKumarAgrawal/BQEB-Reproducibility-Architecture"
+license: "MIT"
